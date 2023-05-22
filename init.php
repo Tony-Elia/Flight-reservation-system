@@ -1,5 +1,5 @@
 <?php
     include 'connect.php';
-    $template = 'includes/';
+    $template = 'templates/';
     $css = 'layout/css/';
     $js = 'layout/js/';

@@ -10,7 +10,7 @@
         <title><?=$pageTitle?></title>
         <link rel="stylesheet" href="layout/css/bootstrap.min.css">
         <link rel="stylesheet" href="layout/css/all.min.css">
-        <link rel="stylesheet" href="layout/css/loginRegist.css">
+        <link rel="stylesheet" href="layout/css/Style.css">
     </head>
     <body>
     
